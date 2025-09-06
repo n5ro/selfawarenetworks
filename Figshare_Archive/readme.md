@@ -1,4 +1,8 @@
-This folder will contain the original PDF's that I uploaded to Figshare. 
+This folder will contain the original PDF's that I uploaded to Figshare (do not use figshare, they unreasonably and unjustly removed evidence of my time-stamped priority without good cause).
+
+https://www.svgn.io/p/open-letter-to-digital-science-and
+
+Most of my key files were backed up to the WayBack Machine but not all of them. However it turns out that thanks to Overleaf.com the PDF's that I made contained uilt in SHA-256 encrypted time stamped proof of creation date and proof of modification date.
 
 They contain — Neutral, machine‑readable timestamps (no Wayback required)
 
