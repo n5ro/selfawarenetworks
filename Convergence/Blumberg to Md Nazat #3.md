@@ -105,100 +105,43 @@ Bottom line on claims: His paper elevates entanglement alone to the fundamental 
 
 * * * * *
 
-2) A crisp, side‑by‑side you can quote
---------------------------------------
+### 2) A crisp, side-by-side you can quote
 
-|
+**Dimension:** Foundational primitive
 
-Dimension
+-   **Super Information Theory (SIT):** Joint system: {Information, Energy, Entropy, Entanglement} constrained by Coherence Field + Time Density Field
 
- |
+-   **Nazat's paper:** Entanglement taken as the fundamental quantity; other notions are secondary or emergent
 
-Super Information Theory (SIT)
+**Dimension:** Emergence claim
 
- |
+-   **Super Information Theory (SIT):** Reality is built by the cooperative dynamics of the quartet via coherence/time-density
 
-Nazat's paper
+-   **Nazat's paper:** Spacetime/GR + Standard Model emerge from entanglement dynamics alone
 
- |
-|
+**Dimension:** Thermo/arrow of time
 
-Foundational primitive
+-   **Super Information Theory (SIT):** Entropy/information flow tied to coherence/time density
 
- |
+-   **Nazat's paper:** Arrow of time from growth of entanglement entropy; thermodynamics from entanglement
 
-Joint system: {Information, Energy, Entropy, Entanglement} constrained by Coherence Field + Time Density Field
+**Dimension:** Black-hole information
 
- |
+-   **Super Information Theory (SIT):** Addressed within SIT's quartet framework
 
-Entanglement taken as the fundamental quantity; other notions are secondary or emergent
+-   **Nazat's paper:** "Entanglement radiation" resolves paradox, with Page-time style narrative
 
- |
-|
+**Dimension:** What looks equivalent
 
-Emergence claim
+-   **Super Information Theory (SIT):** Core emergence-from-informational structure thesis
 
- |
+-   **Nazat's paper:** Same core thesis, but monist in entanglement
 
-Reality is built by the cooperative dynamics of the quartet via coherence/time‑density
+**Dimension:** What's potentially distinct
 
- |
+-   **Super Information Theory (SIT):** Named, testable fields (Coherence, Time Density) + their specific dynamics linking I/E/S/E
 
-Spacetime/GR + Standard Model emerge from entanglement dynamics alone
-
- |
-|
-
-Thermo/arrow of time
-
- |
-
-Entropy/information flow tied to coherence/time density
-
- |
-
-Arrow of time from growth of entanglement entropy; thermodynamics from entanglement
-
- |
-|
-
-Black‑hole information
-
- |
-
-Addressed within SIT's quartet framework
-
- |
-
-"Entanglement radiation" resolves paradox, with Page‑time style narrative
-
- |
-|
-
-What looks equivalent
-
- |
-
-Core emergence‑from‑informational structure thesis
-
- |
-
-Same core thesis, but monist in entanglement
-
- |
-|
-
-What's potentially distinct
-
- |
-
-Named, testable fields (Coherence, Time Density) + their specific dynamics linking I/E/S/E
-
- |
-
-Detailed entanglement‑Lagrangian program; specific claims about ghost resolution via "entanglement gauge"
-
- |
+-   **Nazat's paper:** Detailed entanglement-Lagrangian program; specific claims about ghost resolution via "entanglement gauge"
 
 Use this table to argue "conceptual equivalence at the thesis level; distinct constructions at the mechanism level." That is the most defensible and persuasive footing.
 
