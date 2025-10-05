@@ -1,4 +1,4 @@
-Blumberg To MD Nazat,
+Blumberg To Md Nazat,
 Why don't you come up with at least one original idea that isn't paraphrasing or saying in a different way concepts that others have already published? All I'm seeing from Md Nazat is the same concepts others previously published just phrased in a different way. All of the concepts in his various works have previous appeared in most of these 200 or so other works. All 200 or so of these authors have written works that contain concepts that are equivalent to concepts published by others after translation and mapping
 
 Md Nazat
